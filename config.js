@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "XX",
-      password: "enteryourcustompass",
+      name: "Tanush",
+      password: "tanushgamer4200",
       host: "180.188.226.76",
-      port:  7019,
+      port:  10249,
       secure: false
     }
   ]
