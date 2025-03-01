@@ -9,8 +9,10 @@ module.exports = {
     options: [],
     run: async (client, interaction, lang) => {
         try {
-            const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-            const bot Link = "https://discord.com/oauth2/authorize?client_id=1344296396068618271&permissions=8&integration_type=0&scope=bot";
+                       const githubLink = "https://github.com/GlaceYT";
+            const replitLink = "https://replit.com/@GlaceYT";
+            const youtubeLink = "https://www.youtube.com/@GlaceYT";
+
 
             const embed = new EmbedBuilder()
                 .setColor('#b300ff')
